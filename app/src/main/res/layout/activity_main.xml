@@ -10,8 +10,16 @@
         layout="@layout/toolbar_main"
         android:id="@+id/toolBar"/>
     <TextView
+        android:id="@+id/tb"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Я люблю кису Юлю"
+        android:layout_gravity="center"
+        android:text="Бла Бла Бла"
         android:textSize="30sp"/>
+    <Button
+        android:id="@+id/jul"
+        android:text="ОПА НАЖМИ"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
