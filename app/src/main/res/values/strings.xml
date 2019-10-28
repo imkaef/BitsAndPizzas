@@ -2,4 +2,5 @@
     <string name="app_name">Bits and Pizzas</string>
     <string name="create_order">Создать заказ</string>
     <string name="create_order_title">Создать заказ</string>
+    <string name="action_share">Отправить в...</string>
 </resources>
